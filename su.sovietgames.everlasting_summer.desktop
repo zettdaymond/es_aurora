@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=su.sovietgames.everlasting_summer
+Exec=/usr/bin/su.sovietgames.everlasting_summer
+Name=Everlasting Summer
+Name[ru]=Everlasting Summer
+
+[X-Application]
+Permissions=Audio;UserDirs
+OrganizationName=su.sovietgames
+ApplicationName=everlasting_summer
+ExecDBus=/usr/bin/su.sovietgames.everlasting_summer
+
+[X-Aurora-SplashScreen]
+GradientStartColor=#90C156
+GradientEndColor=#6AAD4E
