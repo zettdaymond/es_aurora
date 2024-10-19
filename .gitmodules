@@ -1,0 +1,3 @@
+[submodule "thirdparty/renpy/game"]
+	path = thirdparty/renpy/game
+	url = https://github.com/zettdaymond/es_resources_aurora
